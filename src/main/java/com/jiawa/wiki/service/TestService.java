@@ -1,4 +1,4 @@
-package com.jiawa.wiki;
+package com.jiawa.wiki.service;
 
 import com.jiawa.wiki.domain.Test;
 import com.jiawa.wiki.mapper.TestMapper;
